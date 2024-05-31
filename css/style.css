@@ -411,6 +411,7 @@ footer p{
 
     #sectionAccessories1{
         grid-template-columns: 1fr;
+        padding: 100px 5px;
     }
 
     /* sectionAccessories2 */
